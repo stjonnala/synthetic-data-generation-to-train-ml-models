@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+overmatches.png
+generated_records.csv
+generated_people.csv
+match_resolver.joblib
